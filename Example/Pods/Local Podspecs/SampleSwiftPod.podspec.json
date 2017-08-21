@@ -1,18 +1,18 @@
 {
   "name": "SampleSwiftPod",
   "version": "0.1.0",
-  "summary": "A short description of SampleSwiftPod.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/yonghwinam/SampleSwiftPod",
+  "summary": "this is sample swift pod",
+  "description": "hellworl!!! new world!!! aslkdjflksdjf  slkfjsdlkfj  slkfjklsdjfklsdjfsfsfs",
+  "homepage": "https://github.com/maztaflex/SampleSwiftPod.git",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "yonghwinam": "yonghwinam@smtown.com"
+    "maztaflex": "maztaflex@nate.com"
   },
   "source": {
-    "git": "https://github.com/yonghwinam/SampleSwiftPod.git",
+    "git": "https://github.com/maztaflex/SampleSwiftPod.git",
     "tag": "0.1.0"
   },
   "platforms": {
